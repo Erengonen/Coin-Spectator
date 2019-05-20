@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Coin Spectator</string>
+    <string name="app_name_normal_xxhdpi"><font size="20">Coin Spectator</font></string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="nav_image_desc">nav icon</string>
+    <string name="action_settings">Settings</string>
+    <string name="price" translatable="false">Price : </string>
+    <string name="high">High : </string>
+    <string name="low">Low : </string>
+    <string name="open">Open : </string>
+    <string name="update">Last Update : 21:12 AM</string>
+    <string name="bitcoin">Bitcoin</string>
+    <string name="bch">BCH</string>
+    <string name="ltc">LTC</string>
+    <string name="eos">EOS</string>
+
+    <string name="binance_coin">Binance Coin</string>
+    <string name="neo">NEO</string>
+    <string name="zcash">Zcash</string>
+    <string name="dash">Dash</string>
+    <string name="xmr">XMR</string>
+    <string name="ethereum">Ethereum</string>
+    <string name="bitcon_gold">Bitcoin Gold</string>
+    <string name="bitcoin_sv">Bitcoin SV</string>
+    <string name="tezos">Tezos</string>
+    <string name="tron">Tron</string>
+    <string name="stellar">Stellar</string>
+    <string name="tether">Tether</string>
+    <string name="xrp">XRP</string>
+    <string name="ada">Cardano</string>
+
+    <string-array name="numbers">
+        <item><font size="15">1 </font><font size="15" color="#FFBFC4BE">HOUR </font></item>
+        <item><font size="15">2.5</font> <font size="15" color="#FFBFC4BE">HOURS </font></item>
+        <item><font size="15">5 </font><font  size="15" color="#FFBFC4BE">HOURS </font></item>
+        <item><font size="15">12 </font><font  size="15" color="#FFBFC4BE">HOURS </font></item>
+        <item><font size="15">24 </font><font size="15" color="#FFBFC4BE">HOURS </font></item>
+
+    </string-array>
+
+</resources>

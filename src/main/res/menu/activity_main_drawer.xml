@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/BTC"
+            android:icon="@drawable/ic_btc"
+            android:title="Bitcoin" />
+        <item
+            android:id="@+id/ETH"
+            android:icon="@drawable/ic_etc"
+            android:title="Ethereum" />
+        <item
+            android:id="@+id/XRP"
+            android:icon="@drawable/ic_xrp"
+            android:title="XRP" />
+
+        <item
+            android:id="@+id/BCH"
+            android:icon="@drawable/ic_bch"
+            android:title="Bitcoin Cash" />
+        <item
+            android:id="@+id/EOS"
+            android:icon="@drawable/ic_eos"
+            android:title="EOS" />
+        <item
+            android:id="@+id/LTC"
+            android:icon="@drawable/ic_ltc"
+            android:title="Litecoin" />
+
+        <item
+            android:id="@+id/BNB"
+            android:icon="@drawable/ic_bnb"
+            android:title="Binance Coin" />
+
+        <item
+            android:id="@+id/tether"
+            android:icon="@drawable/ic_usdt"
+            android:title="Tether" />
+
+        <item
+            android:id="@+id/XLM"
+            android:icon="@drawable/ic_xlm"
+            android:title="Stellar" />
+
+        <item
+            android:id="@+id/ADA"
+            android:icon="@drawable/ic_ada"
+            android:title="Cardano" />
+
+        <item
+            android:id="@+id/TRON"
+            android:icon="@drawable/ic_tron"
+            android:title="Tron" />
+
+        <item
+            android:id="@+id/XMR"
+            android:icon="@drawable/ic_monero"
+            android:title="Monero" />
+
+        <item
+            android:id="@+id/DASH"
+            android:icon="@drawable/ic_dash"
+            android:title="Dash" />
+
+        <item
+            android:id="@+id/XTZ"
+            android:icon="@drawable/ic_xtz"
+            android:title="Tezos" />
+
+        <item
+            android:id="@+id/BSV"
+            android:icon="@drawable/ic_bsvs"
+            android:title="Bitcoin SV" />
+
+        <item
+            android:id="@+id/ZCASH"
+            android:icon="@drawable/ic_zzcash"
+            android:title="Zcash" />
+
+        <item
+            android:id="@+id/bitcoin_gold"
+            android:icon="@drawable/ic_bitcoin_gold"
+            android:title="Bitcoin Gold" />
+
+        <item
+            android:id="@+id/NEO"
+            android:icon="@drawable/ic_neo"
+            android:title="NEO" />
+
+
+
+
+    </group>
+</menu>
